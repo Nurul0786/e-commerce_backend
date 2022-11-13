@@ -28,5 +28,4 @@ Spring Data Jpa
 
 DATABSE SCHEMA:
 
-![image](https://user-images.githubusercontent.com/95265681/201531063-b324d2b3-8b59-4602-825b-406911c46956.png)
-
+![image](https://user-images.githubusercontent.com/95265681/201541016-1afceacc-62c9-4e3f-a22a-db781dfed7a6.png)
